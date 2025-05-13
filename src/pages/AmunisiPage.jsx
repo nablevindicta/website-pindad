@@ -63,7 +63,7 @@ const amunisi = [
 
   { name: " MU4-TJ + MU4-N LINK", 
     description: " 5,56 x 45 mm M193 Linked (M27) FMJ and Tracer ammunition, for use with light machine guns chambered in 5,56 x 45 mm M193 Linked (M27) using 12 inch twist barrel.", 
-    image: "MU4-TJ + MU4-N LINK.png" },
+    image: "MU4-TJ_MU4-N_LINK.png" },
 
   { name: " MU42-TJ", 
     description: "5,56 x 44 mm (.222) FMJRN ammunition, for use with firearms chambered in 5.56 x 44 mm/.222: SB2 series.", 
@@ -99,7 +99,7 @@ const amunisi = [
 
   { name: "MU2-TJ + MU2-N", 
     description: " 7,62 x 51 mm NATO Linked (M13) FMJ and Tracer ammunition for use with Light Machine Guns and General Purpose Machine Guns chambered in 7,62 x 51 mm NATO with M13 Link: SM2-V1, SM2-V2, and others with similar caliber", 
-    image: "MU2-TJ + MU2-N.png" },
+    image: "MU2-TJ MU2-N.png" },
 
   { name: "MU2-TJ", 
     description: " 7,62 x 51 mm NATO Linked (M13) FMJ ammunition, for use with Light Machine Guns and General Purpose Machine Guns chambered in 7,62 x 51 mm NATO with M13 Link: SM2-V1, SM2-V2, and others with similar caliber.", 
@@ -159,7 +159,7 @@ const amunisi = [
 
   { name: " MU3-TJ + MU3-N", 
     description: " 12,7 x 99 mm NATO (.50 BMG) Linked (M15A2) FMJ and Tracer ammunition for use with Heavy Machine Guns chambered in 12,7 x 99 mm/.50 BMG with M15A2 Link Belt: SM5 and others with similar caliber.", 
-    image: "MU3-TJ + MU3-N.png" },
+    image: "MU3-TJ_MU3-N.png" },
 
   { name: "MU3-TJ + MU3-N METALLIC LINK M2/HBFL", 
     description: " 12,7 x 99 mm NATO (.50 BMG) Linked (M2) FMJ and Tracer ammunition, for use with Heavy Machine Guns chambered in 12,7 x 99 mm/.50 BMG with M2 Link Belt: SM5-A1 and others with similar caliber.", 
