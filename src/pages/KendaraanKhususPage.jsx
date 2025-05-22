@@ -379,7 +379,7 @@ const kendaraanKhusus = [
   
     return (
       <section className="container mx-auto pt-20 py-10 px-4">
-        <h2 className="text-3xl sm:text-4xl font-bold text-center mb-6">Kendaraan Khusus</h2>
+        <h2 className="text-3xl sm:text-4xl font-bold text-center mb-6">Special Vehicle</h2>
   
         <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {kendaraanKhusus.map((item, index) => (

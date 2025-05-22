@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 
 const categories = [
-  { id: "weapons", name: "Senjata", image: "/images/senjata/SS3-M1 10.5.png", path: "/products/weapons" },
-  { id: "ammunition", name: "Amunisi", image: "/images/amunisi/MU42-TJ.png", path: "/products/ammunition" },
-  { id: "vehicles", name: "Kendaraan Khusus", image: "/images/kendaraan/MAUNG V3 SPARTAN.png", path: "/products/vehicles" },
+  { id: "weapons", name: "Weapon", image: "/images/senjata/SS3-M1 10.5.png", path: "/products/weapons" },
+  { id: "ammunition", name: "Ammunition", image: "/images/amunisi/MU42-TJ.png", path: "/products/ammunition" },
+  { id: "vehicles", name: "Special Vehicle", image: "/images/kendaraan/MAUNG V3 SPARTAN.png", path: "/products/vehicles" },
 ];
 
 const Products = () => {

@@ -31,21 +31,21 @@ const Navbar = () => {
                   className="block px-4 py-2 hover:bg-gray-200"
                   onClick={() => setIsDropdownOpen(false)}
                 >
-                  Senjata
+                  Weapon
                 </Link>
                 <Link
                   to="/products/ammunition"
                   className="block px-4 py-2 hover:bg-gray-200"
                   onClick={() => setIsDropdownOpen(false)}
                 >
-                  Amunisi
+                  Ammunition
                 </Link>
                 <Link
                   to="/products/vehicles"
                   className="block px-4 py-2 hover:bg-gray-200"
                   onClick={() => setIsDropdownOpen(false)}
                 >
-                  Kendaraan Khusus
+                  Special Vehicle
                 </Link>
               </div>
             )}

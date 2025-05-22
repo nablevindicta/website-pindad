@@ -1079,7 +1079,7 @@ const SenjataPage = () => {
 
   return (
     <section className="container mx-auto pt-20 py-10 px-4">
-      <h2 className="text-3xl sm:text-4xl font-bold text-center mb-6">Senjata</h2>
+      <h2 className="text-3xl sm:text-4xl font-bold text-center mb-6">Weapon</h2>
 
       <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {senjata.map((item, index) => (
