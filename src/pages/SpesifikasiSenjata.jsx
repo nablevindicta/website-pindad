@@ -24,7 +24,7 @@ const SpesifikasiSenjata = () => {
         <img
           src={`/images/senjata/${weapon.image}`}
           alt={weapon.name}
-          className="w-full max-w-md rounded shadow"
+          className="w-full max-w-md"
         />
       </div>
 

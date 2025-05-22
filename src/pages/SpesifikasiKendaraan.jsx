@@ -50,7 +50,7 @@ const SpesifikasiKendaraan = () => {
         <img
           src={`/images/kendaraan/${selectedVehicle.image}`}
           alt={selectedVehicle.name}
-          className="w-full max-w-md rounded shadow"
+          className="w-full max-w-md"
         />
       </div>
 

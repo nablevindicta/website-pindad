@@ -50,7 +50,7 @@ const SpesifikasiAmunisi = () => {
         <img
           src={`/images/amunisi/${selectedAmmunition.image}`}
           alt={selectedAmmunition.name}
-          className="w-82 h-32 object-cover rounded-md"
+          className="w-full max-w-md"
         />
       </div>
 
