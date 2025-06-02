@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 
 const senjata = [
   /* ASSAULT RIFLES */
-  { name: "SS3-M1 10.5", 
+  { name: 'SS3-M1 10.5"', 
     description: "5,56 mm gas operated assault rifle for Law Enforcement and Military use specifically designed and tuned to operate even on the harshest condition. Suitable for Designated Marksman Rifle (DMR) roles within a combat unit.", 
     image: "SS3-M1 10.5.png",
     specifications: {
@@ -22,7 +22,7 @@ const senjata = [
     },
   },
 
-  { name: "SS3-M1 14.5", 
+  { name: 'SS3-M1 14.5"', 
     description: "5,56 mm gas operated carbine for Military and Law Enforcement use conditions. WEAPONSspecifically designed and tuned to operate even on the most challenging", 
     image: "SS3-M1 14.5.png",
     specifications: {
@@ -41,7 +41,7 @@ const senjata = [
     },
   },
 
-  { name: "SS3-M1 16", 
+  { name: 'SS3-M1 16"', 
     description: " 5,56 mm gas operated carbine for Military and Law Enforcement use conditions.  specifically designed and tuned to operate even on the most challenging challenging conditions.", 
     image: "SS3-M1 16.png", 
     specifications: {
@@ -60,7 +60,7 @@ const senjata = [
     },
   },
 
-  { name: "SS3-M1 20", 
+  { name: 'SS3-M1 20"', 
     description: " 5,56 mm gas operated carbine for Military and Law Enforcement use specifically designed and tuned to operate even on the most challenging conditions. Suitable for DMR role within a combat unit ", 
     image: "SS3-M1 20.png", 
     specifications: {
