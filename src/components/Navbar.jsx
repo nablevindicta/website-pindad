@@ -13,7 +13,6 @@ const Navbar = () => {
 
         <div className="flex space-x-6 relative">
           <Link to="/" className="hover:text-gray-400">Home</Link>
-          <Link to="/about" className="hover:text-gray-400">About</Link>
 
           {/* Dropdown Menu */}
           <div className="relative">
